@@ -1,0 +1,101 @@
+S.No.,Score,Dismissed,Captain,Player of the match,Against,Position,Innings,Test ,Strike Rate,Venue,City,H/A,Date ,Result
+1,119,No,No,Yes,England,6,4,2,,Old Trafford,Manchester,Away,8/9/1990,Drawn
+2,148,No,No,No,Australia,6,2,3,,Sydney Cricket Ground,Sydney,Away,1/2/1992,Drawn
+3,114,Yes,No,No,Australia,4,2,5,,WACA Ground,Perth,Away,2/1/1992,Lost
+4,111,Yes,No,No,South Africa,4,2,2,,Wanderers Stadium,Johannesburg,Away,11/26/1992,Drawn
+5,165,Yes,No,Yes,England,4,1,2,,M. A. Chidambaram Stadium,Chennai,Home,2/11/1993,Won
+6,104,No,No,No,Sri Lanka,4,3,2,,Sinhalese Sports Club Ground,Colombo,Away,7/27/1993,Won
+7,142,Yes,No,No,Sri Lanka,4,1,1,,K. D. Singh Babu Stadium,Lucknow,Home,1/18/1994,Won
+8,110,Yes,No,Yes,Australia,2,1,,84.61,R. Premadasa Stadium,Colombo,Neutral,9/9/1994,Won
+9,115,Yes,No,Yes,New Zealand,2,2,,84.55,IPCL Sports Complex Ground,Vadodara,Home,10/28/1994,Won
+10,105,Yes,No,No,West Indies,2,1,,78.35,Sawai Mansingh Stadium,Jaipur,Home,11/11/1994,Won
+11,179,Yes,No,No,West Indies,4,1,2,,Vidarbha Cricket Association Ground,Nagpur,Home,12/1/1994,Drawn
+12,112,No,No,Yes,Sri Lanka,2,2,,104.67,Sharjah Cricket Association Stadium,Sharjah,Neutral,4/9/1995,Won
+13,127,No,No,Yes,Kenya,2,2,,92.02,Barabati Stadium,Cuttack,Home,2/18/1996,Won
+14,137,Yes,No,No,Sri Lanka,2,1,,100,Feroz Shah Kotla Ground,New Delhi,Home,3/2/1996,Lost
+15,100,Yes,No,No,Pakistan,2,1,,90.09,Padang,Singapore,Neutral,4/5/1996,Lost
+16,118,Yes,No,Yes,Pakistan,2,1,,84.28,Sharjah Cricket Association Stadium,Sharjah,Neutral,4/15/1996,Won
+17,122,Yes,No,No,England,4,3,1,,Edgbaston,Birmingham,Away,6/6/1996,Lost
+18,177,Yes,No,No,England,4,1,3,,Trent Bridge,Nottingham,Away,7/4/1996,Drawn
+19,110,Yes,Yes,No,Sri Lanka,2,1,,79.71,R. Premadasa Stadium,Colombo,Away,8/28/1996,Lost
+20,114,Yes,Yes,Yes,South Africa,1,1,,90.47,Wankhede Stadium,Mumbai,Home,12/14/1996,Won
+21,169,Yes,Yes,No,South Africa,5,2,2,,Newlands Cricket Ground,Cape Town,Away,1/2/1997,Lost
+22,104,Yes,Yes,Yes,Zimbabwe,1,1,,107.21,Willowmoore Park,Benoni,Neutral,2/9/1997,Won
+23,117,Yes,Yes,Yes,New Zealand,2,2,,85.4,M. Chinnaswamy Stadium,Bangalore,Home,5/14/1997,Won
+24,143,Yes,Yes,No,Sri Lanka,4,1,1,,R. Premadasa Stadium,Colombo,Away,8/2/1997,Drawn
+25,139,Yes,Yes,No,Sri Lanka,4,2,2,,Sinhalese Sports Club Ground,Colombo,Away,8/9/1997,Drawn
+26,148,Yes,Yes,No,Sri Lanka,5,1,3,,Wankhede Stadium,Mumbai,Home,12/3/1997,Drawn
+27,155,No,No,Yes,Australia,4,3,1,,M. A. Chidambaram Stadium,Chennai,Home,3/6/1998,Won
+28,177,Yes,No,No,Australia,4,1,3,,M. Chinnaswamy Stadium,Bangalore,Home,3/25/1998,Lost
+29,100,Yes,No,Yes,Australia,2,2,,112.35,Green Park Stadium,Kanpur,Home,4/7/1998,Won
+30,143,Yes,No,Yes,Australia,2,2,,109.16,Sharjah Cricket Association Stadium,Sharjah,Neutral,4/22/1998,Lost
+31,134,Yes,No,Yes,Australia,2,2,,102.29,Sharjah Cricket Association Stadium,Sharjah,Neutral,4/24/1998,Won
+32,100,No,No,Yes,Kenya,2,2,,97.08,Eden Gardens,Kolkata,Home,5/31/1998,Won
+33,128,Yes,No,Yes,Sri Lanka,2,1,,97.7,R. Premadasa Stadium,Colombo,Away,7/7/1998,Won
+34,127,No,No,Yes,Zimbabwe,2,2,,97.69,Queens Sports Club,Bulawayo,Away,9/26/1998,Won
+35,141,Yes,No,Yes,Australia,2,1,,110.15,Bangabandhu National Stadium,Dhaka,Neutral,10/28/1998,Won
+36,118,No,No,Yes,Zimbabwe,2,2,,105.35,Sharjah Cricket Association Stadium,Sharjah,Neutral,11/8/1998,Won
+37,124,No,No,Yes,Zimbabwe,2,2,,134.78,Sharjah Cricket Association Stadium,Sharjah,Neutral,11/13/1998,Won
+38,113,Yes,No,No,New Zealand,5,3,2,,Basin Reserve,Wellington,Away,12/26/1998,Lost
+39,136,Yes,No,Yes,Pakistan,4,4,1,,M. A. Chidambaram Stadium,Chennai,Home,1/28/1999,Lost
+40,124,No,No,No,Sri Lanka,4,3,2,,Sinhalese Sports Club Ground,Colombo,Away,2/24/1999,Drawn
+41,140,No,No,Yes,Kenya,4,1,,138.61,County Ground,Bristol,Neutral,5/23/1999,Won
+42,120,Yes,Yes,No,Sri Lanka,1,1,,85.1,Sinhalese Sports Club Ground,Colombo,Away,8/29/1999,Won
+43,126,No,Yes,No,New Zealand,4,3,1,,Punjab Cricket Association Stadium,Mohali,Home,10/10/1999,Drawn
+44,217,Yes,Yes,Yes,New Zealand,4,1,3,,Sardar Patel Stadium,Ahmedabad,Home,10/29/1999,Drawn
+45,186,No,Yes,Yes,New Zealand,2,1,,124,Lal Bahadur Shastri Stadium,Hyderabad,Home,11/8/1999,Won
+46,116,Yes,Yes,Yes,Australia,4,2,2,,Melbourne Cricket Ground,Melbourne,Away,12/26/1999,Lost
+47,122,Yes,No,Yes,South Africa,2,2,,88.4,IPCL Sports Complex Ground,Vadodara,Home,3/17/2000,Won
+48,101,Yes,No,Yes,Sri Lanka,2,1,,72.14,Sharjah Cricket Association Stadium,Sharjah,Neutral,10/20/2000,Lost
+49,122,Yes,No,No,Zimbabwe,4,2,1,,Feroz Shah Kotla Ground,New Delhi,Home,11/18/2000,Won
+50,201,No,No,No,Zimbabwe,4,1,2,,Vidarbha Cricket Association Ground,Nagpur,Home,11/25/2000,Drawn
+51,146,Yes,No,No,Zimbabwe,2,1,,95.42,Barkatullah Khan Stadium,Jodhpur,Home,12/8/2000,Lost
+52,126,Yes,No,No,Australia,4,2,3,,M. A. Chidambaram Stadium,Chennai,Home,3/18/2001,Won
+53,139,Yes,No,Yes,Australia,2,1,,111.2,Nehru Stadium,Indore,Home,3/31/2001,Won
+54,122,No,No,Yes,West Indies,2,2,,93.12,Harare Sports Club,Harare,Neutral,7/4/2001,Won
+55,101,Yes,No,No,South Africa,2,1,,78.29,New Wanderers Stadium,Johannesburg,Away,10/5/2001,Lost
+56,146,Yes,No,Yes,Kenya,2,1,,110.6,Boland Park,Paarl,Neutral,10/24/2001,Won
+57,155,Yes,No,No,South Africa,4,1,1,,Goodyear Park,Bloemfontein,Away,11/3/2001,Lost
+58,103,Yes,No,No,England,4,2,2,,Sardar Patel Stadium,Ahmedabad,Home,12/11/2001,Drawn
+59,176,Yes,No,No,Zimbabwe,4,2,1,,Vidarbha Cricket Association Ground,Nagpur,Home,2/21/2002,Won
+60,117,Yes,No,No,West Indies,4,1,2,,Queen's Park Oval,Port of Spain,Away,4/19/2002,Won
+61,105,No,No,No,England,4,1,,97.22,Riverside Ground,Chester-le-Street,Away,7/4/2002,N/R
+62,113,Yes,No,Yes,Sri Lanka,4,1,,110.78,County Ground,Bristol,Neutral,7/11/2002,Won
+63,193,Yes,No,No,England,4,1,3,,Headingley,Leeds,Away,8/22/2002,Won
+64,176,Yes,No,Yes,West Indies,4,3,3,,Eden Gardens,Kolkata,Home,10/30/2002,Drawn
+65,152,Yes,No,Yes,Namibia,2,1,,100.66,City Oval,Pietermaritzburg,Neutral,2/23/2003,Won
+66,100,Yes,No,Yes,Australia,2,1,,84.03,Roop Singh Stadium,Gwalior,Home,10/26/2003,Won
+67,102,Yes,No,No,New Zealand,2,1,,112.08,Lal Bahadur Shastri Stadium,Hyderabad,Home,11/15/2003,Won
+68,241,No,No,Yes,Australia,4,1,4,,Sydney Cricket Ground,Sydney,Away,1/2/2004,Drawn
+69,141,Yes,No,Yes,Pakistan,2,2,,104.44,Rawalpindi Cricket Stadium,Rawalpindi,Away,3/16/2004,Lost
+70,194,No,No,No,Pakistan,4,1,1,,Multan Cricket Stadium,Multan,Away,3/28/2004,Won
+71,248,No,No,No,Bangladesh,4,2,1,,Bangabandhu National Stadium,Dhaka,Away,12/10/2004,Won
+72,123,Yes,No,No,Pakistan,2,1,,94.61,Sardar Patel Stadium,Ahmedabad,Home,4/12/2005,Lost
+73,109,Yes,No,No,Sri Lanka,4,1,2,,Feroz Shah Kotla Ground,New Delhi,Home,12/10/2005,Won
+74,100,Yes,No,No,Pakistan,2,1,,88.49,Arbab Niaz Stadium,Peshawar,Away,2/6/2006,Lost
+75,141,No,No,No,West Indies,2,1,,95.27,Kinrara Academy Oval,Kuala Lumpur,Neutral,9/14/2006,Lost
+76,100,No,No,No,West Indies,4,1,,131.57,IPCL Sports Complex Ground,Vadodara,Home,1/31/2007,Won
+77,101,Yes,No,No,Bangladesh,4,1,1,,Bir Shrestha Shahid Ruhul Amin Stadium,Chittagong,Away,5/18/2007,Drawn
+78,122,No,No,No,Bangladesh,4,1,2,,Sher-e-Bangla National Stadium,Mirpur,Away,5/25/2007,Won
+79,154,No,No,No,Australia,4,2,2,,Sydney Cricket Ground,Sydney,Away,1/2/2008,Lost
+80,153,Yes,No,Yes,Australia,4,1,4,,Adelaide Oval,Adelaide,Away,1/24/2008,Drawn
+81,117,No,No,Yes,Australia,1,2,,97.5,Sydney Cricket Ground,Sydney,Away,3/2/2008,Won
+82,109,Yes,No,No,Australia,4,1,4,,Vidarbha Cricket Association Ground,Nagpur,Home,11/6/2008,Won
+83,103,No,No,No,England,4,4,1,,M. A. Chidambaram Stadium,Chennai,Home,12/11/2008,Won
+84,163,No,No,Yes,New Zealand,2,1,,122.55,AMI Stadium ,Christchurch,Away,3/8/2009,Won
+85,160,Yes,No,Yes,New Zealand,4,2,1,,Seddon Park,Hamilton,Away,3/18/2009,Won
+86,138,Yes,No,Yes,Sri Lanka,1,1,,103.75,R. Premadasa Stadium,Colombo,Away,9/14/2009,Won
+87,175,Yes,No,No,Australia,2,2,,124.11,Rajiv Gandhi International Stadium,Hyderabad,Home,11/5/2009,Lost
+88,100,No,No,No,Sri Lanka,5,3,1,,Sardar Patel Stadium,Ahmedabad,Home,11/16/2009,Drawn
+89,105,No,No,Yes,Bangladesh,4,1,1,,Zohur Ahmed Chowdhury Stadium,Chittagong,Away,1/17/2010,Won
+90,143,Yes,No,No,Bangladesh,4,2,2,,Sher-e-Bangla National Stadium,Mirpur,Away,1/24/2010,Won
+91,100,Yes,No,No,South Africa,4,3,1,,Vidarbha Cricket Association Ground,Nagpur,Home,2/6/2010,Lost
+92,106,Yes,No,No,South Africa,4,2,2,,Eden Gardens,Kolkata,Home,2/14/2010,Won
+93,200,No,No,Yes,South Africa,2,1,,136.05,Roop Singh Stadium,Gwalior,Home,2/24/2010,Won
+94,203,Yes,No,No,Sri Lanka,4,2,2,,Sinhalese Sports Club Ground,Colombo,Away,7/26/2010,Drawn
+95,214,Yes,No,Yes,Australia,4,2,2,,M. Chinnaswamy Stadium,Bangalore,Home,10/9/2010,Won
+96,111,No,No,No,South Africa,5,3,1,,SuperSport Park,Centurion,Away,12/16/2010,Lost
+97,146,Yes,No,No,South Africa,4,2,3,,Newlands Cricket Ground,Cape Town,Away,1/2/2011,Drawn
+98,120,Yes,No,No,England,2,1,,104.34,M. Chinnaswamy Stadium,Bangalore,Home,2/27/2011,Tied
+99,111,Yes,No,No,South Africa,2,1,,109.9,VCA Stadium,Nagpur,Home,3/12/2011,Lost
+100,114,Yes,No,No,Bangladesh,2,1,,77.55,Sher-e-Bangla National Stadium,Mirpur,Away,3/16/2012,Lost
