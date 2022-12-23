@@ -1,0 +1,113 @@
+USE DATABASE "SALES_DB";
+
+
+------1. Load table and Primary Key = ORDER_DATE
+
+CREATE or replace table RAVI_SALES_DATA
+
+(
+  ORDER_ID VARCHAR(25),
+  ORDER_DATE STRING PRIMARY KEY,
+  SHIP_DATE STRING,
+  SHIP_MODE VARCHAR(20),
+  CUSTOMER_NAME VARCHAR(50),
+  SEGMENT VARCHAR(30),
+  STATE VARCHAR(100),
+  COUNTRY VARCHAR(50),
+  MARKET VARCHAR(30),
+  REGION VARCHAR(30),
+  PRODUCT_ID VARCHAR(20),
+  CATEGORY VARCHAR(30),
+  SUB_CATEGORY VARCHAR(30),
+  PRODUCT_NAME STRING,
+  SALES INTEGER,
+  QUANTITY INTEGER,
+  DISCOUNT FLOAT,
+  PRIFIT FLOAT,
+  SHIPPING_COST FLOAT,
+  ORDER_PRIORITY VARCHAR(20),
+  YEAR CHAR(4) 
+);
+
+
+DESC TABLE RAVI_SALES_DATA;
+
+SELECT * FROM RAVI_SALES_DATA;
+
+------2.CHANGE Primary Key = ORDER_ID
+
+ALTER TABLE RAVI_SALES_DATA DROP PRIMARY KEY;
+ALTER TABLE RAVI_SALES_DATA ADD PRIMARY KEY(ORDER_ID);
+
+
+DESC TABLE RAVI_SALES_DATA;
+
+
+--------3 check the data type oder_date and ship_date 
+
+
+----ANSWER --- IT SHOULD BE DATA TYPE
+
+
+------- 4.	Create a new column called order_extract and extract the number after the last ‘–‘from Order ID column.
+
+ALTER TABLE RAVI_SALES_DATA
+ADD ORDER_EXTRACT STRING;
+
+UPDATE RAVI_SALES_DATA SET ORDER_EXTRACT = SUBSTRING(ORDER_ID,9,30)
+
+
+--------5.	Create a new column called Discount Flag and categorize it based on discount. 
+------------Use ‘Yes’ if the discount is greater than zero else ‘No’.
+SELECT * FROM RAVI_SALES_DATA
+ALTER TABLE RAVI_SALES_DATA
+ADD DISCOUNT_FLAG STRING;
+
+UPDATE RAVI_SALES_DATA 
+SET DISCOUNT_FLAG = CASE WHEN DISCOUNT>0 THEN 'YES'
+                    ELSE 'NO' END;
+
+
+--------6.	Create a new column called process days and calculate 
+--how many days it takes for each order id to process from the order to its shipment.
+
+ALTER TABLE RAVI_SALES_DATA
+ADD PROCESS_DAY INTEGER;
+
+UPDATE RAVI_SALES_DATA SET PROCESS_DAY = SHIP_DATE - ORDER_DATE;
+--------7.	Create a new column called Rating and then based on the Process dates give rating like given below.
+
+--a.	If process days less than or equal to 3days then rating should be 5
+--b.	If process days are greater than 3 and less than or equal to 6 then rating should be 4
+--c.	If process days are greater than 6 and less than or equal to 10 then rating should be 3
+--d.	If process days are greater than 10 then the rating should be 2.
+
+
+ALTER TABLE RAVI_SALES_DATA
+ADD RATING INTEGER;
+
+UPDATE RAVI_SALES_DATA 
+SET RATING=
+CASE WHEN PROCESS_DAY <=3  THEN 5
+     WHEN PROCESS_DAY>3 AND PROCESS_DAY <=6  THEN 4
+     WHEN PROCESS_DAY>6 AND PROCESS_DAY <=10  THEN 3
+     WHEN PROCESS_DAY >10  THEN 2
+END;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
